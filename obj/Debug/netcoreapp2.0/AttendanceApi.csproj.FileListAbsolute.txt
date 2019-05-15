@@ -1,0 +1,12 @@
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\obj\Debug\netcoreapp2.0\AttendanceApi.csprojAssemblyReference.cache
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\obj\Debug\netcoreapp2.0\AttendanceApi.csproj.CoreCompileInputs.cache
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\obj\Debug\netcoreapp2.0\AttendanceApi.AssemblyInfoInputs.cache
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\obj\Debug\netcoreapp2.0\AttendanceApi.AssemblyInfo.cs
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\bin\Debug\netcoreapp2.0\AttendanceApi.deps.json
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\bin\Debug\netcoreapp2.0\AttendanceApi.runtimeconfig.json
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\bin\Debug\netcoreapp2.0\AttendanceApi.runtimeconfig.dev.json
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\bin\Debug\netcoreapp2.0\AttendanceApi.dll
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\bin\Debug\netcoreapp2.0\AttendanceApi.pdb
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\obj\Debug\netcoreapp2.0\AttendanceApi.dll
+C:\Users\Donprecious\source\repos\MyAttendance1\AttendanceApi\obj\Debug\netcoreapp2.0\AttendanceApi.pdb
